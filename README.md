@@ -23,7 +23,7 @@ We have used four datasets i.e. T20Records(for all international T20 matches),T2
   6. Scikit-learn
  
 # Algorithm
-We are trying with different algorithms like Support Vector Machines, Logistic Regression, Random Forest and K-Nearest Neighbours model. After trying with all these approaches , we will be comparing the accuracy of all of them and use the best model for prediction.
+We visualized with different algorithms like Support Vector Machines which was already implemented. We ran multiple algorithms like Random Forest Classifier, Decision Tree Classifier and Logistic Regression, out of which we found that the Decision Tree Classifier gave better results. 
 
 # References 
 https://cricsheet.org/
@@ -34,28 +34,6 @@ https://towardsdatascience.com/icc-2019-cricket-world-cup-prediction-using-machi
 
 https://en.wikipedia.org/wiki/List_of_ICC_Men%27s_T20_World_Cup_records
 
-# License
-MIT License
-
-Copyright (c) 2022 Harsh Deswal
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-
+# Acknowledgments
+The project is inspired by the article "ICC-T20-world-cup-2022-Prediction" by Harsh Deswal.
+Thanks to the Python community for providing the necessary libraries for this project.
