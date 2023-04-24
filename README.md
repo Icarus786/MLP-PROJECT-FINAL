@@ -36,4 +36,5 @@ https://en.wikipedia.org/wiki/List_of_ICC_Men%27s_T20_World_Cup_records
 
 # Acknowledgments
 The project is inspired by the article "ICC-T20-world-cup-2022-Prediction" by Harsh Deswal.
+
 Thanks to the Python community for providing the necessary libraries for this project.
